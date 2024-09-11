@@ -4,5 +4,4 @@
 
 azure-functions
 requests
-urllib
 logging
